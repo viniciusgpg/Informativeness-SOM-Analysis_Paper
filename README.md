@@ -1,6 +1,6 @@
 # Análise da informatividade de microgrupos em Mapas Auto-Organizáveis para identificação de variáveis importantes no diagnóstico de COVID-19
 
-This repository contains the datasets and code for my paper _Análise da informatividade de microgrupos em Mapas Auto-Organizáveis para identificação de variáveis importantes no diagnóstico de COVID-19_.
+This repository contains the dataset and code for my paper _Análise da informatividade de microgrupos em Mapas Auto-Organizáveis para identificação de variáveis importantes no diagnóstico de COVID-19_.
 
 ## The paper
 
@@ -9,7 +9,7 @@ This paper describes a study based on the classification results of a machine le
 [Análise da informatividade de microgrupos em Mapas Auto-Organizáveis para identificação de variáveis importantes no diagnóstico de COVID-19](https://drive.google.com/file/d/1uHsWgnuHEGeorrjCAx5CQgpxeq-DOKsK/view?usp=sharing)
 ## Datasets
 
-The datasets folder in this repository contains the dataset used in this paper. COVID-19 diagnostic tests data obtained from Instituto Fleury were used
+The dataset folder in this repository contains the dataset used in this paper. COVID-19 diagnostic tests data obtained from Instituto Fleury were used
 as the dataset.
 ## Credits
 
